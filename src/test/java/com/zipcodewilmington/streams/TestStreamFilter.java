@@ -2,8 +2,7 @@ package com.zipcodewilmington.streams;
 
 import com.zipcodewilmington.streams.anthropoid.Person;
 import com.zipcodewilmington.streams.tools.StringUtils;
-import com.zipcodewilmington.streams.tools.logging.LoggerHandler;
-import com.zipcodewilmington.streams.tools.logging.LoggerWarehouse;
+
 import org.junit.Before;
 import org.junit.Test;
 
